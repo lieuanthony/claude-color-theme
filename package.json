@@ -1,0 +1,21 @@
+{
+  "name": "claude-color-theme",
+  "displayName": "ClaudeColorTheme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Claude Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Claude Color Theme-color-theme.json"
+      }
+    ]
+  }
+}
